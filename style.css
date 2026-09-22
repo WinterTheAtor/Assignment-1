@@ -1,0 +1,18 @@
+.header {
+    color: red;
+    font-size: 2rem;
+    margin-left: 25%;
+    margin-right: 25%
+}
+
+p {
+    color: black;
+    font-size: 1rem;
+    margin-top: 20px;
+}
+
+ol{
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
